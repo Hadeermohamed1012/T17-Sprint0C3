@@ -16,7 +16,7 @@ GUCians with ambition...
 
 * Hadeermohamed : I love reading and listening to music 
 * Reem Essam : I love swimming and travelling 
- 
+* Hanien Ahmed : I love reading and travelling
 
 
 > “The future belongs to those who believe in the beauty of their dreams.” Eleanor Roosevelt
