@@ -1,7 +1,16 @@
-# T17-Sprint0C3  
-**Project Titlle** (Sprint 0)  
-**Getting Started**(_this repository contains a README file which contains information about each team member_ )  
-**Authors** ( Reem Essam  37-8875 , Hadeer mohamed 37-5898 , Hanien Ahmed 37-1522)  
-**About** (Reem Essam 37-8875 , Hadeermohamed 37-5898 , Hanien AHmed 37-1522)  
+﻿# T17 - Sprint 0 - Component 3
+![Header Image](https://images.pexels.com/photos/163130/keyboard-black-notebook-input-163130.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb)
 
+### Getting Started
+This repository contains a `README` file detailing information about each team member.
+
+### Authors
+* Reem Essam, 37-8875
+* Hadeer Mohamed, 37-5898
+* Hanien Ahmed, 37-1522
+* Abdelrahman Rami, 37-1032
+* Mai Samir Ibrahim, 37-3932
+
+### About
+GUCians with ambition...
 > “The future belongs to those who believe in the beauty of their dreams.” Eleanor Roosevelt
