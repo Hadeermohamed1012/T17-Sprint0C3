@@ -14,7 +14,9 @@ This repository contains a `README` file detailing information about each team m
 ### About
 GUCians with ambition...
 
-* Hadeermohamed : I love reading and listening to music  
+* Hadeermohamed : I love reading and listening to music 
+* Reem Essam : I love swimming and travelling 
+ 
 
 
 > “The future belongs to those who believe in the beauty of their dreams.” Eleanor Roosevelt
