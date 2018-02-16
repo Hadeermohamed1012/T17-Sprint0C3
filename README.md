@@ -13,4 +13,13 @@ This repository contains a `README` file detailing information about each team m
 
 ### About
 GUCians with ambition...
+
+* Hadeermohamed : I love reading and listening to music 
+* Reem Essam : I love swimming and travelling 
+* Hanien Ahmed : I love reading and travelling
+* Mai Samir : Hanging out with friends, travelling and listening to music are my passions.
+
+
 > “The future belongs to those who believe in the beauty of their dreams.” Eleanor Roosevelt
+
+ 
